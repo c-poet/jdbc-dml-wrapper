@@ -12,6 +12,7 @@
         <module>jdbc-dml-wrapper-core</module>
         <module>jdbc-dml-wrapper-jpa</module>
         <module>jdbc-dml-wrapper-ebean</module>
+        <module>jdbc-dml-wrapper-batis</module>
         <module>jdbc-dml-wrapper-mysql</module>
         <module>jdbc-dml-wrapper-oracle</module>
     </modules>
